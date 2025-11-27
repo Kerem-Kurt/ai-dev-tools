@@ -22,7 +22,7 @@ A simple Todo application built with Django for the AI Dev Tools course (HW1).
 
 2. **Run Migrations**
    ```bash
-   cd hw1
+   cd 01-todo
    python manage.py migrate
    ```
 
